@@ -1,5 +1,5 @@
 
-##Pre-requisitos
+#Pre-requisitos
 
 Es necesario tener previamente instalado lo siguiente:
  * Un editor de código, para este desarrollo se utilizó la última versión de Visual Studio Code https://code.visualstudio.com/
@@ -7,7 +7,7 @@ Es necesario tener previamente instalado lo siguiente:
  * Php 7.2.29
  * Laravel 7.* la documentación de cómo hacerlo la encuentras en https://laravel.com/docs/7.x#installing-laravel
  
- ##Instalación
+ #Instalación
  
  1) Abrimos nuestro VSC y colocamos en la terminal la siguiente ruta git clone https://github.com/erikaMirella91/proyecto_final.git
  2) Una vez que hayamos descargado el proyecto, lo abrimos dentro de la misma aplicación. 
