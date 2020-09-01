@@ -4,7 +4,7 @@
     <div class="container">
         <br><br><br>
         <div class="row">
-        <a href="{{ url('crearCarrera')}}" class="btn btn-warning" style="margin-left: 800px">Crear Carrera</a>
+        <a href="{{ url('crearCarrera')}}" class="btn btn-warning" style="margin-left: 800px">Crear Clase</a>
         <br><br><br><br><br><br>
             <table class="table table-bordered" style="margin-top: 30px">
                 <thead>
