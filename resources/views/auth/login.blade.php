@@ -2,6 +2,7 @@
 
 @section('content')
 <div class="container">
+    <br><br><br><br><br><br>
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -58,8 +59,8 @@
                                 </button>
 
                                 @if (Route::has('password.request'))
-                                    <a class="btn btn-link" href="{{ route('password.request') }}">
-                                        {{ __('Forgot Your Password?') }}
+                                    <a class="btn btn-link" href="{{ route('register') }}">
+                                        {{ __('Regístrate') }}
                                     </a>
                                 @endif
                             </div>
@@ -69,5 +70,6 @@
             </div>
         </div>
     </div>
+    <br><br><br><br><br><br><br><br><br>
 </div>
 @endsection
